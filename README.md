@@ -1,2 +1,2 @@
 # Public
-Examples of EDAs I’ve done
+Examples of EDAs and models I've built for fun and for my own learning.
